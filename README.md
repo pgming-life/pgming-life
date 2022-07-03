@@ -28,10 +28,3 @@ SPAで動作するアプリケーションとして上記パッケージで必�
 - **[Androidアプリ](https://github.com/pgming-life/android-apps)**   
 OpenGLを用いたライブ壁紙のAndroidアプリ。  
 バージョンはAndroid8.0(APIレベル26)以降を対象にしています。  
-  
-- **[学習コード](https://github.com/pgming-life/study-code)**   
-AHK、DirectX11,12、Pythonのコードをまとめています。  
-  
-- **[金融チャート](https://github.com/pgming-life/mql5)**   
-ロシア製のトレーディングソフト(MetaTrader5)で動作するインジケータコードをまとめています。  
-基本的に移動平均線、ボリンジャーバンドなどのメジャーなものなどです。  
